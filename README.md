@@ -21,4 +21,4 @@ Good Morning
 
 My favorite place to watch video is [Youtube](youtube.com)
 
-![Beaches are beautiful](/downloads/Beach)
+![Beaches are beautiful](/assets/images/san-juan-mountains.jpg)
