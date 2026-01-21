@@ -13,7 +13,7 @@
 - Wings
 - Soup
 
-`code`
+`git commit`
 
 Hello
 ----
